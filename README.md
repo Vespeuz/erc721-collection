@@ -1,4 +1,4 @@
-# NFT ERC721 Collection
+# ERC721 Collection
 
 An all-in-one solution for `ERC721` collections. Build, test and deploy your smart contract, together with a totally
 integrated DAPP within a simple yet powerful workspace.
@@ -17,28 +17,6 @@ This project was created for educational purposes, please refer to the [LICENCE]
 - customizable minting DAPP (from basic branding to complete customization)
 - now based on `ERC721A`
 
-## YouTube tutorials
-
-|Lesson ID|Description|Video link|
-|---|---|---|
-|`00a`|Basic setup on **Windows 10**|https://youtu.be/zjlg-0622PU|
-|`00b`|Basic setup on **macOS Catalina (Intel-based)**|https://youtu.be/acqXzKN5Xys|
-|`00c`|Basic setup on **Linux**|https://youtu.be/imuqi6Vg3Zw|
-|`01`|Speedrun: create and deploy a smart contract + DAPP (v2.x)|https://youtu.be/AFrsJRLrZEM|
-|`02`|The smart contract project|https://youtu.be/XToWWExBLXE|
-|`03`|The minting DAPP project|https://youtu.be/gs9mVwkn8u4|
-|`04`|Configuration and security|https://youtu.be/pkA86GHU_xw|
-|`05`|Managing the collection without leaving Visual Studio Code|https://youtu.be/yOVKEeRMJSs|
-|`06`|Managing the contract using Truffle Dashboard|https://youtu.be/fwdIA5UuPmM|
-|`07`|Running smart contract functions manually on the block explorer|https://youtu.be/zhvTJhBbtnE|
-|`08`|Customizing the look and feel of the DAPP|https://youtu.be/GoDp6yZAY9A|
-|`09`|Deploying the DAPP|https://youtu.be/uUrbIXUgVz4|
-
-## Legacy tutorials
-
-|Description|Video link|
-|---|---|
-|Speedrun: create and deploy a smart contract + DAPP (v1.x)|https://youtu.be/VpXJZSqLO8A|
 
 ## Requirements
 
